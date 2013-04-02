@@ -117,6 +117,16 @@ article h2 { font-family: 'Lobster Two'; font-size: 60px; margin: 25px 0; line-h
 	}
 #theend article a { text-decoration: underline; }
 #theend article a:hover { color: #fff; }
-#theend .byebye { background: url(../images/key.jpg) 40% 100px no-repeat fixed; height: 700px; padding: 0; margin: 0; width: 100%; max-width: 1920px; position: relative; margin: 0 auto; }
+#theend .byebye { 
+	background: url(../images/key.jpg) 40% 100px no-repeat fixed;
+	height: 500px;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	max-width: 1920px;
+	position:
+	relative;
+	margin: 0 auto;
+	}
 
 
