@@ -103,7 +103,7 @@ article h2 { font-family: 'Lobster Two'; font-size: 60px; margin: 25px 0; line-h
 /* The End */
 #theend article { 
 	width: 100%; 
-	top: 70px; 
+	top: 30px; 
 	position: absolute; 
 	text-align: center;
 	color: #fff; 
@@ -118,7 +118,7 @@ article h2 { font-family: 'Lobster Two'; font-size: 60px; margin: 25px 0; line-h
 #theend article a { text-decoration: underline; }
 #theend article a:hover { color: #fff; }
 #theend .byebye { 
-	background: url(../images/key.jpg) 70% 50px no-repeat fixed;
+	background: url(../images/key.jpg) 20% 20px no-repeat fixed;
 	height: 500px;
 	padding: 0;
 	margin: 0;
