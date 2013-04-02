@@ -1,13 +1,18 @@
-/*
+
 .mejs-container {
-	position: relative;
+
+	position: fixed;
+	left: 50%; 
+	box-shadow: 0 0 25px rgba(0,0,0,0.7); 
+	z-index: 1;
+	/* position: relative;
+	vertical-align: top; */
 	background: #000;
 	font-family: Helvetica, Arial;
 	text-align: left;
-	vertical-align: top;
 	text-indent: 0;
 }
-*/
+/**/
 
 .me-plugin {
 	position: absolute;
